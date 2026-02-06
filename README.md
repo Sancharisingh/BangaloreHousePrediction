@@ -39,16 +39,16 @@ This project demonstrates the complete machine learning workflow along with back
 
 **Target**
 - `price` (in Lakhs)
-
 ---
 
 ## 🏗️ System Architecture
 
-Frontend (HTML / CSS / JavaScript)
-↓
-Flask REST API
-↓
-Trained ML Model (Pickle)
+    Frontend (HTML / CSS / JavaScript)
+                ↓
+            Flask REST API
+                ↓
+         Trained ML Model (Pickle)
+
 
 
 ---
